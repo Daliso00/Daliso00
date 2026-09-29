@@ -1,30 +1,138 @@
-<h1 align="center">Hi 👋, I'm Daliso</h1>
-<h3 align="center">A passionate frontend developer from Zambia</h3>
+# 👋 Hey, I'm Daliso
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daliso00&label=Profile%20views&color=0e75b6&style=flat" alt="daliso00" /> </p>
+### Cybersecurity Student • Full-Stack Builder • Entrepreneur • Problem Solver 🇿🇲
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daliso00" alt="daliso00" /></a> </p>
+I'm a Zambian tech enthusiast focused on **cybersecurity, software development, AI, and building practical digital products**.
 
-<p align="left"> <a href="https://twitter.com/daliso00" target="blank"><img src="https://img.shields.io/twitter/follow/daliso00?logo=twitter&style=for-the-badge" alt="daliso00" /></a> </p>
+I like turning ideas into working systems — whether that's a cybersecurity lab, an AI-powered application, or a platform solving real problems for farmers.
 
-- 🔭 I’m currently working on **Reelrush Management app**
+> **I don't just want to learn technology. I want to build with it.**
 
-- 🌱 I’m currently learning **Python**
+---
 
-- 📫 How to reach me **dalisodot@gmail.com**
+## What I'm Building
 
-- ⚡ Fun fact **I can do a Handstand :)**
+### 🌱 Farmers Blueprint
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/daliso00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daliso00" height="30" width="40" /></a>
-<a href="https://fb.com/daliso00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="daliso00" height="30" width="40" /></a>
-<a href="https://instagram.com/mr_upperhand_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_upperhand_" height="30" width="40" /></a>
-</p>
+A growing agritech platform designed to help farmers access practical farming knowledge, business resources, market information, and digital tools.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+I'm currently exploring the development of a **Farmers Blueprint web/app ecosystem**, including:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daliso00&show_icons=true&locale=en&layout=compact" alt="daliso00" /></p>
+* Farmer dashboards & records
+* Crop & livestock knowledge
+* AI-powered farming assistance
+* Pest & disease identification
+* Market price information
+* Farm inventory management
+* Production & financial records
+* Weather and farming insights
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daliso00&show_icons=true&locale=en" alt="daliso00" /></p>
+**Mission:** Make practical agricultural knowledge and technology more accessible to farmers in Zambia and beyond.
+
+---
+
+## Cybersecurity
+
+I'm building my cybersecurity skills through hands-on learning and practical labs.
+
+Areas I'm currently exploring:
+
+* Cybersecurity fundamentals
+* SOC & Blue Team concepts
+* Digital forensics
+* Networksecurity
+* Linux
+* SQL & databases
+*  Cloud security
+* AI + Cybersecurity
+*  Incident investigation
+
+I believe cybersecurity is best learned by **getting your hands dirty and actually breaking, investigating, and fixing things.**
+
+---
+
+## Tech I'm Learning & Using
+
+**Languages & Development**
+
+`Python` `JavaScript` `HTML` `CSS` `SQL`
+
+**Tools & Platforms**
+
+`Git` `GitHub` `Linux` `Google AI Studio` `Google Cloud`
+
+**Cybersecurity**
+
+`Cisco Networking` `Digital Forensics` `SOC Tools` `Network Security`
+
+**Currently Exploring**
+
+`AI/ML` `Cloud Computing` `Cybersecurity Automation` `Full-Stack Development`
+
+---
+
+## My Approach
+
+I'm interested in the intersection of:
+
+**Technology × Business × Agriculture × AI × Cybersecurity**
+
+I enjoy figuring out how technology can move from an idea on paper into something people can actually use.
+
+I'm especially interested in **African technology solutions** and building products that solve problems in the real world.
+
+---
+
+## Currently Learning
+
+* Cybersecurity & SOC operations
+* Software engineering
+* Cloud technologies
+* AI application development
+* Data & SQL
+* Git/GitHub workflows
+* Digital forensics
+* Building and deploying real-world applications
+
+---
+
+## Long-Term Vision
+
+Build technology products that create **real economic value**, while becoming highly skilled in cybersecurity and software engineering.
+
+I'm not trying to collect certificates just to collect certificates.
+
+**The goal is capability.**
+
+Learn → Build → Break → Fix → Improve → Repeat.
+
+---
+
+## GitHub Goals
+
+I'm using GitHub to document my journey, build publicly, and create a portfolio of projects that demonstrate what I can actually do.
+
+Expect to see:
+
+ Cybersecurity labs
+ Python projects
+ Web applications
+ AI experiments
+ Automation scripts
+ Digital forensics projects
+Farmers Blueprint development
+Learning projects & experiments
+
+---
+
+### Let's Connect
+
+I'm always interested in connecting with people interested in:
+
+**Cybersecurity • Software Engineering • AI • Agritech • Entrepreneurship • African Tech**
+
+---
+
+> **Build something useful. Learn something difficult. Leave the code better than you found it.**
+
+🇿🇲 **Building from Zambia, thinking globally.**
