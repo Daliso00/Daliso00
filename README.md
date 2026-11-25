@@ -1,138 +1,45 @@
-# 👋 Hey, I'm Daliso
+# Daliso Mwanza
 
-### Cybersecurity Student • Full-Stack Builder • Entrepreneur • Problem Solver 🇿🇲
+**Cybersecurity Student | Cloud Security | DevSecOps | AI & Machine Learning**
 
-I'm a Zambian tech enthusiast focused on **cybersecurity, software development, AI, and building practical digital products**.
+Lusaka, Zambia · [Portfolio](https://daliso00.github.io/) · [LinkedIn](https://www.linkedin.com/in/daliso-mwanza) · [Email](mailto:Dalisodot@gmail.com)
 
-I like turning ideas into working systems — whether that's a cybersecurity lab, an AI-powered application, or a platform solving real problems for farmers.
+I'm a cybersecurity student building practical skills through hands-on labs, security automation, and technical projects. My current focus is **cloud security, application security, security monitoring, and the intersection of AI and cybersecurity**. I'm also developing my Python and machine learning foundations.
 
-> **I don't just want to learn technology. I want to build with it.**
+I use GitHub to document what I build, explain how I test it, and show the evidence behind the results.
 
----
+## Featured Projects
 
-## What I'm Building
+| Project | What it demonstrates |
+|---|---|
+| [Secure AWS Foundation with Terraform](https://github.com/Daliso00/AWS-Secure-Foundation-Terraform) | Secure AWS S3 configuration, Terraform, and Trivy IaC scanning. Local validation only; no AWS resources deployed. |
+| [DevSecOps Security Pipeline](https://github.com/Daliso00/DevSecOps-Security-Pipeline) | GitHub Actions automation, Trivy security scanning, Python unit tests, dependency checks, IaC scanning, and secret detection. |
+| [Personal Portfolio](https://github.com/Daliso00/Daliso00.github.io) | Responsive portfolio website built with HTML, CSS, and JavaScript. |
 
-### 🌱 Farmers Blueprint
+## Technical Focus
 
-A growing agritech platform designed to help farmers access practical farming knowledge, business resources, market information, and digital tools.
+- **Cybersecurity:** Application security, network security, security monitoring, digital forensics, incident investigation.
+- **Cloud & DevSecOps:** AWS fundamentals, Terraform, GitHub Actions, Trivy, Infrastructure as Code security.
+- **Programming & Data:** Python (foundational), SQL, HTML, CSS, JavaScript.
+- **AI & Machine Learning:** Currently building foundations in Python, data analysis, and supervised learning.
 
-I'm currently exploring the development of a **Farmers Blueprint web/app ecosystem**, including:
+## Experience & Learning
 
-* Farmer dashboards & records
-* Crop & livestock knowledge
-* AI-powered farming assistance
-* Pest & disease identification
-* Market price information
-* Farm inventory management
-* Production & financial records
-* Weather and farming insights
+- Cybersecurity internship — SYNK Study.
+- Tata Consultancy Services — Cybersecurity Security Analyst Job Simulation (Forage).
+- Deloitte Australia — Cyber Job Simulation (Forage).
+- Continuing practical learning in cybersecurity, cloud technologies, Python, and machine learning.
 
-**Mission:** Make practical agricultural knowledge and technology more accessible to farmers in Zambia and beyond.
+## How I Work
 
----
+I prefer practical learning over collecting credentials: define a problem, build a controlled lab, test it, document the findings, and improve the implementation.
 
-## Cybersecurity
+I aim to be precise about what has been completed, what has been tested, and what remains a work in progress.
 
-I'm building my cybersecurity skills through hands-on learning and practical labs.
+## Connect
 
-Areas I'm currently exploring:
+- Portfolio: https://daliso00.github.io/
+- LinkedIn: https://www.linkedin.com/in/daliso-mwanza
+- Email: Dalisodot@gmail.com
 
-* Cybersecurity fundamentals
-* SOC & Blue Team concepts
-* Digital forensics
-* Networksecurity
-* Linux
-* SQL & databases
-*  Cloud security
-* AI + Cybersecurity
-*  Incident investigation
-
-I believe cybersecurity is best learned by **getting your hands dirty and actually breaking, investigating, and fixing things.**
-
----
-
-## Tech I'm Learning & Using
-
-**Languages & Development**
-
-`Python` `JavaScript` `HTML` `CSS` `SQL`
-
-**Tools & Platforms**
-
-`Git` `GitHub` `Linux` `Google AI Studio` `Google Cloud`
-
-**Cybersecurity**
-
-`Cisco Networking` `Digital Forensics` `SOC Tools` `Network Security`
-
-**Currently Exploring**
-
-`AI/ML` `Cloud Computing` `Cybersecurity Automation` `Full-Stack Development`
-
----
-
-## My Approach
-
-I'm interested in the intersection of:
-
-**Technology × Business × Agriculture × AI × Cybersecurity**
-
-I enjoy figuring out how technology can move from an idea on paper into something people can actually use.
-
-I'm especially interested in **African technology solutions** and building products that solve problems in the real world.
-
----
-
-## Currently Learning
-
-* Cybersecurity & SOC operations
-* Software engineering
-* Cloud technologies
-* AI application development
-* Data & SQL
-* Git/GitHub workflows
-* Digital forensics
-* Building and deploying real-world applications
-
----
-
-## Long-Term Vision
-
-Build technology products that create **real economic value**, while becoming highly skilled in cybersecurity and software engineering.
-
-I'm not trying to collect certificates just to collect certificates.
-
-**The goal is capability.**
-
-Learn → Build → Break → Fix → Improve → Repeat.
-
----
-
-## GitHub Goals
-
-I'm using GitHub to document my journey, build publicly, and create a portfolio of projects that demonstrate what I can actually do.
-
-Expect to see:
-
- Cybersecurity labs
- Python projects
- Web applications
- AI experiments
- Automation scripts
- Digital forensics projects
-Farmers Blueprint development
-Learning projects & experiments
-
----
-
-### Let's Connect
-
-I'm always interested in connecting with people interested in:
-
-**Cybersecurity • Software Engineering • AI • Agritech • Entrepreneurship • African Tech**
-
----
-
-> **Build something useful. Learn something difficult. Leave the code better than you found it.**
-
-🇿🇲 **Building from Zambia, thinking globally.**
+**Building from Zambia. Learning by doing.**
